@@ -1,7 +1,5 @@
 import { Link as ReachLink } from "react-router-dom"
 
-import { MoonIcon, SunIcon } from '@chakra-ui/icons';
-
 import {
     Box,
     Flex,
@@ -25,8 +23,6 @@ import {
     CloseIcon,
     ChevronDownIcon,
     ChevronRightIcon,
-    BellIcon,
-    SearchIcon,
   } from '@chakra-ui/icons';
 import SingUp from "./SingUp";
   
@@ -70,7 +66,7 @@ import SingUp from "./SingUp";
   ml={0}
   h={"80px"}
   w={"auto"}
-  src='https://h.top4top.io/p_2601r33i01.png' alt='logo' />
+  src='./src/components/878.svg' alt='logo' />
 
 </Link>
             <Flex display={{ base: 'none', md: 'flex' }} ml={10}>

@@ -24,9 +24,10 @@ function SingUp() {
           <ModalCloseButton />
           <ModalBody >
           <img
-        src='https://a.top4top.io/p_26012ivly1.png'
+        src='https://img.freepik.com/free-vector/high-five-hands-concept-illustration_114360-11529.jpg?w=740&t=st=1693404084~exp=1693404684~hmac=07d4bf0f31d5781aff24d95285e7fd13a584917cd4cd32a81b03b2661de6a240'
         className='img-fluid rounded'
         alt='example'
+        width={300}
       />
       
           </ModalBody>
