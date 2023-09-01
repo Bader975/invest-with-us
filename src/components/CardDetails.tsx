@@ -19,14 +19,14 @@ import {
   List,
   ListItem,
   Box,
+  Avatar,
 } from '@chakra-ui/react';
 
-import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
-import { MdLocalShipping } from 'react-icons/md';
+
 import { MDBIcon } from 'mdb-react-ui-kit';
 import FooterHome from './FooterHome';
 import NavCompany from './NavCompany';
-import { IoMdArrowRoundBack } from 'react-icons/Io';
+
 
 function CardDetails(props: any) {
   // (window as Window).location = 'abc'
@@ -60,9 +60,9 @@ function CardDetails(props: any) {
     <>
       <NavCompany />
       <Link to='/show'>
-        <Box ml={20} >
-          <IoMdArrowRoundBack size={40} />
-        </Box>
+        <Text ml={20} fontSize={30}>
+        ⬅️ Go Back
+        </Text>
       </Link>
       <Container maxW={'7xl'}>
         <SimpleGrid

@@ -1,4 +1,4 @@
-import { GrClose } from 'react-icons/Gr';
+
 
 import {
   Alert,
@@ -17,9 +17,6 @@ import {
   Heading,
   Divider,
 } from "@chakra-ui/react";
-import { CloseIcon, StarIcon } from "@chakra-ui/icons";
-import { MdEmail, MdHeadset, MdLocationOn } from "react-icons/md";
-import { BsFillBriefcaseFill } from "react-icons/bs";
 import React from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
