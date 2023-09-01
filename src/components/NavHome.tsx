@@ -66,7 +66,7 @@ import SingUp from "./SingUp";
   ml={0}
   h={"80px"}
   w={"auto"}
-  src='./src/components/878.svg' alt='logo' />
+  src='https://github.com/Bader975/README/assets/80196102/4604a628-64d0-4bbb-aa4f-5c5676ceab6a' alt='logo' />
 
 </Link>
             <Flex display={{ base: 'none', md: 'flex' }} ml={10}>

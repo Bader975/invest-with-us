@@ -62,7 +62,7 @@ textAlign={'left'}>
 
 minWidth={"8rem"}
 
-    src={'./src/components/Business deal-rafiki.svg'} mixBlendMode={"darken"} alt='ImageHome' />
+    src={'https://github.com/Bader975/README/assets/80196102/376c9286-5a37-46aa-9bcd-1cbbef13908d'} mixBlendMode={"darken"} alt='ImageHome' />
 </Box>  
 </SimpleGrid>
 
